@@ -1,3 +1,3 @@
 # My_First_Repo
 
-Brief descriptions
+Brief descriptions are here
